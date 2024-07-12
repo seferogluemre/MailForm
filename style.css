@@ -1,0 +1,12 @@
+* {
+    box-sizing: border-box;
+    font-size: 23px;
+  }
+  .container {
+    border: 1px solid rgb(75, 67, 67);
+    border-radius: 25px;
+    padding: 20px;
+  }
+  .formDiv {
+    margin-top: 20px;
+  }
